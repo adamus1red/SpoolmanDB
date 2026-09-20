@@ -791,23 +791,23 @@
             "colors": [
                 {
                     "name": "White (Glow Green)",
-                    "hex": "000000"
+                    "hex": "DCEABE"
                 },
                 {
                     "name": "White (Glow Blue)",
-                    "hex": "000000"
+                    "hex": "F1F4ED"
                 },
                 {
                     "name": "Cyber Orange",
-                    "hex": "FEA94C"
+                    "hex": "FF833F"
                 },
                 {
                     "name": "Future Green",
-                    "hex": "6AE453"
+                    "hex": "42E726"
                 },
                 {
                     "name": "Tech Blue",
-                    "hex": "4ECBFB"
+                    "hex": "0073CB"
                 }
             ]
         }
